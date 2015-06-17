@@ -1,4 +1,8 @@
 " Create Your table in the database "
+"try keeping your database name as  imgcrawl"
+
+
+create database imgcrwl;
 
 create table imglinks (
 id int not null auto_increment primary key,
